@@ -14,7 +14,7 @@ This project is a simple web-based calculator that allows users to perform basic
 
 ## Screenshots
 
-![Calculator Screenshot](screenshots/screenshot.png)
+![Calculator Screenshot](https://github.com/ishrat1296/digital-bhem/blob/main/Calculator.png)
 
 ## How to Use
 
